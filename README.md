@@ -19,7 +19,7 @@
 <br />
 
 
-![iamvishnuks](https://github-readme-stats.vercel.app/api?username=iamvishnuks&show_icons=true&theme=dracula)
+![iamvishnuks](https://github-readme-stats.vercel.app/api?username=iamvishnuks&show_icons=true&theme=dracula&include_all_commits=true&custom_title=My%20Github%20Stats%20%F0%9F%A4%93)
 
 [twitter]: https://twitter.com/iamvishnuks
 [linkedin]: https://www.linkedin.com/in/iamvishnuks/
