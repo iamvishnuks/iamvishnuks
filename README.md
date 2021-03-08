@@ -1,4 +1,4 @@
-## Hi there, [Vishnu!](https://iamvishnuks.com) 👋
+## Hi there, I'm [Vishnu!](https://iamvishnuks.com) 👋
 ![iamvishnuks](https://visitor-badge.laobi.icu/badge?page_id=iamvishnuks.iamvishnuks)
 
 #### I'm a technocrat from India.
