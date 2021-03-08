@@ -4,10 +4,10 @@
 #### I'm a technocrat from India.
 
 - 🏢 I'm currently working at **Rakuten**
-- ⚙️ I use daily: `.py`, `.go`, `.yaml`, `.json` and a lot of `DevOps` tools.
+- ⚙️ I use daily: `.py`, `.go`, `.yaml`, `.json` and a lot of `DevOps` tools
 - 🌍 I'm mostly working in **DevOps | SRE | Distributed Engineering | Architecting solutions on cloud**
 - 🌱 Learning all about **New in tech**
-- 💬 Ping me about **python**, **golang**, **k8s**, **AWS**, **Azure**, **GCP**, **microservices**, **observability platform** .
+- 💬 Ping me about **python**, **golang**, **k8s**, **AWS**, **Azure**, **GCP**, **microservices** and **building reliable observability platforms** 
 
 ### Connect with me:
 
