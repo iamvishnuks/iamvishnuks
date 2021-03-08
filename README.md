@@ -14,7 +14,7 @@
 [<img align="left" alt="Vishnu's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Vishnu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Vishnu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Vishnu's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 <br />
 <br />
 
@@ -24,7 +24,7 @@
 [twitter]: https://twitter.com/iamvishnuks
 [linkedin]: https://www.linkedin.com/in/iamvishnuks/
 [gmail]: mailto:ksvishnu56@gmail.com
-
+[medium]: https://iamvishnuks.medium.com/
 ### Skilled in 👇:
 
 [<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
