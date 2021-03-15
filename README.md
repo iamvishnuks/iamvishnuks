@@ -18,7 +18,7 @@
 <br />
 <br />
 
-
+[![iamvishnuks wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamvishnuks&theme=dracula)](https://github.com/iamvishnuks/xmigrate)
 ![iamvishnuks](https://github-readme-stats.vercel.app/api?username=iamvishnuks&show_icons=true&theme=dracula&include_all_commits=true&custom_title=My%20Github%20Stats%20%F0%9F%A4%93)
 
 [twitter]: https://twitter.com/iamvishnuks
