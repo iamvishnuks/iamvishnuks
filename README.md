@@ -3,7 +3,7 @@
 
 #### I'm a technocrat from India.
 
-- 🏢 I'm currently working at **Rakuten**
+- 🏢 I'm currently working at **AsianLogic**
 - ⚙️ I use daily: `.py`, `.go`, `.yaml`, `.json` and a lot of `DevOps` tools
 - 🌍 I'm mostly working in **DevOps | SRE | Distributed Engineering | Architecting solutions on cloud**
 - 🌱 Learning all about **New in tech**
